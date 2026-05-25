@@ -1,5 +1,4 @@
-<img width="957" height="503" alt="image" src="https://github.com/user-attachments/assets/71d0d3cf-bf44-4d47-b64b-b019438fed39" /># Filtro-de-Pesquisa-em-CSV
-
+ Filtro-de-Pesquisa-em-CSV
 
 Escolha o arquivo CSV para carregar.
 <img width="1904" height="995" alt="image" src="https://github.com/user-attachments/assets/20848445-cc06-4da0-b7ad-f4342493c97b" />
